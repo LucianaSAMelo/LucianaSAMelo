@@ -1,6 +1,6 @@
 ### LUCIANA SILVA ALBUQUERQUE DE MELO
 
-Professora no ensino técnico e superior
+Professora no Ensino Técnico e Superior
 
 ____________________________________________________________________________________________
 FORMACÃO ACADÊMICA
