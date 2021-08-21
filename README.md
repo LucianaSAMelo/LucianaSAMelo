@@ -1,16 +1,32 @@
-### Hi there 👋
+### LUCIANA SILVA ALBUQUERQUE DE MELO
 
-<!--
-**LucianaSAMelo/LucianaSAMelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Professora no ensino técnico e superior
 
-Here are some ideas to get you started:
+____________________________________________________________________________________________
+FORMACÃO ACADÊMICA
+____________________________________________________________________________________________
+- Mestranda em Tecnologia Nuclear
+- Especialista em Engenharia de Software com métodos ágeis
+- Especialista em Gestão de Recursos Humanos
+- Licenciatura Plena em Docência para o ensino médio e técnico
+- Graduada em Informaática para a gestão de negócios
+- Graduada em Processos Gerenciais
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+____________________________________________________________________________________________
+DISCIPLINAS MINISTRADAS
+____________________________________________________________________________________________
+- Técnicas de Programação
+- Análise e Projeto de Sistemas
+- Projeto Integrador -Engenharia de Software
+- Matemática Financeira
+
+____________________________________________________________________________________________
+ÁREAS DE INTERESSE
+____________________________________________________________________________________________
+- Inteligência Artificial
+- Data Science
+- Programação
+
+<div>
+  <a href="https://github.com/LucianaSAMelo">
+   Meu GitHub
